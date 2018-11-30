@@ -1,0 +1,35 @@
+_repo: La-Caravana-Pasa-Obras-Completas-Vol-I_58375
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ghiraldo, Alberto
+    gutenberg_agent_id: '49917'
+    url: http://www.gutenberg.org/2009/agents/49917
+creator:
+  author:
+    agent_name: Darío, Rubén
+    aliases:
+    - Dario, Ruben
+    - Sarmiento, Félix Rubén García
+    - Sarmiento, Felix Ruben Garcia
+    - García Sarmiento, Félix Rubén
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+description: ''
+gutenberg_issued: '2018-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58375'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La Caravana Pasa
+
+  Obras Completas Vol. I'
+url: http://www.gutenberg.org/ebooks/58375
